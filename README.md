@@ -6,7 +6,7 @@ This work is based on my academic experience, personal research, and professiona
 
 ## Very Small Aperature Antenna (VSAT) Systems
 
-VSAT System-Integration is essentially the coordination of modular electronic devices for RF/IF mixing, MODEM devices, and physical/mechanized antenna dishes.
+VSAT System-Integration is essentially the coordination of modular electronic devices for RF/IF mixing, Modulation-Demodulation of signals, and  transmission/reception of energy.
 
 VSATs are essentially antenna-dishes and components that are "Portable Earth-Stations" for facillitating a satellite link.
 
